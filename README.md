@@ -22,8 +22,12 @@ cd sit323-2025-prac2p
 
 ### Step 2: Install Dependencies
 
+```bash
 npm install
+```
 
 ### Step 3: Run the Application
 
+```bash
 node server.js
+```
